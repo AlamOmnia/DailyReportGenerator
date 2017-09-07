@@ -24,7 +24,7 @@ namespace Demo_Excel_Export.Helpers
         private DatabaseHelper()
         {
             // Set the connection string from config file
-            ConnectionString = @"Server=192.168.2.11;User Id=root;password=Takay1#$ane;Persist Security Info=True;default command timeout=80000;database=purple";
+            ConnectionString = @"Server=***.***.***.***;User Id=root;password=*****;Persist Security Info=True;default command timeout=80000;database=purple";
         }
 
         // Open database connection
