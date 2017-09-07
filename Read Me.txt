@@ -1,0 +1,11 @@
+User Manual:
+1.Create a folder name as 'Daily Report' in 'C' drive
+2.Click 'Run' button
+
+If a new IGW added then changes below:
+------------>in "IgwExcelDisplayToSourceNetworkMapping.txt" add the IGW name 
+------------>if the IGW has not have values the mark x beside its name
+example: 
+	IGW name - test
+then do this ->
+	Test x

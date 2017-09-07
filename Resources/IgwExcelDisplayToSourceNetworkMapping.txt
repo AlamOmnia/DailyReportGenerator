@@ -1,0 +1,35 @@
+﻿Asia Alliance	x
+Apple Networks Ltd	x
+Bangla Tel ltd	x
+BanglaTrac	Btrac
+Bestec Telecom Ltd.	x
+BG Tel	x
+BIGL	x
+BTCL	x
+Cel Telecom Ltd	x
+DBL Telecom Ltd	x
+Digicon Telecommunciation	DIGICON
+First Communication Ltd	x
+Global Voice Telecom	GVTEL
+Hamid Sourcing Ltd.	x
+HRC Technologies	x
+Kay Telecommu nications Ltd	x
+Mir telecom	MIR
+Mos5Tel Ltd	x
+NovoTel	novotel
+Platinum Communication ltd	x
+Ranks Tel	x
+Ratul Telecom	x
+Roots Communications	Roots
+Sigma Eneineers Ltd.	x
+SM Communication	x
+Telex Limited	x
+Unique Infoway Ltd.	Unique
+Venus Telecom	x
+Vision Tel	x
+Airtel	Airtel
+Blink	Blink
+Citycell	Citycell
+GP	GP
+ROBI	ROBI
+Teletalk	Teletalk
